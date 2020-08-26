@@ -1,0 +1,7 @@
+.navbar-nav li {
+    text-transform: uppercase;
+}
+
+div.dropdown img {
+    width: 14px !important;
+}
