@@ -180,3 +180,84 @@ h3.heading {
 .feature p {
     font-size: 1.1rem;
 }
+
+.adress {
+    padding: 2rem 0;
+    background-color: #111;
+}
+
+/* footer {
+    padding: 2rem 0 2rem;
+    margin-top: 1rem;
+}
+
+footer img {
+    height: 3rem;
+    margin: 1.5rem 0;
+}
+
+footer a {
+    color: white;
+}
+
+footer svg.svg-inline--fa {
+    font-size: 1.6rem;
+    margin: 1.2rem .5rem 0 0;
+}
+
+footer a:hover {
+    color: #8e793e !important;
+}
+
+footer svg.svg-inline--fa:hover {
+    color: #8e793e !important;
+}
+
+footer svg.svg-inline--fa:active {
+    color: #8e793e !important;
+}
+
+
+
+.partners img {
+    width: 50%;
+    border-radius: 100%;
+} */
+
+hr.socket {
+    width: 100%;
+    border-top: .05rem solid #ef7900;
+
+}
+
+@media (max-width: 767.98px) {
+    /* .navbar .logo {
+        display: none;
+    } */
+
+    .description h1 {
+        font-size: 2.3rem;
+    }
+
+    .description {
+        top: 35%;
+    }
+
+    .description-long {
+        height: 100%;
+    }
+
+    .background-worker {
+        height: 100vh;
+    }
+
+    .description-long {
+        width: 90%;
+        margin: 1rem auto;
+        padding-top: 2rem;
+    }
+
+    .description-long h1 {
+        font-size: 1.5rem;
+    }
+}
