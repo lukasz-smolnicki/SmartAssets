@@ -186,6 +186,19 @@ h3.heading {
     background-color: #111;
 }
 
+.icon-text-container {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.icon-text {
+    display: inline-block;
+}
+
+.icon {
+    vertical-align: middle;
+}
+
 /* footer {
     padding: 2rem 0 2rem;
     margin-top: 1rem;
